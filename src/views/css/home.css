@@ -1,0 +1,152 @@
+.isTop{
+    width: 750px;
+    height: 45px;
+    background-color: #5fc1e3;
+}
+
+.item-container {
+    width: 750px;
+    height: 1059px;
+}
+.tabbarDiv{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.tabbarImage{
+    width: 70px;
+    height: 70px;
+}
+.tabbarText{
+    height: 50px;
+}
+.tabbarSelectText{
+    height: 50px;
+    color: #5fc1e3;
+}
+
+.nav{
+    height: 100px;
+}
+
+.nav-middle-text{
+    font-size: 45px;
+    color: #FFFFFF;
+}
+
+.nav-right{
+    font-size: 80px;
+    color: #FFFFFF;
+}
+
+.home-scroller{
+    width: 750px;
+    height: 1204px;
+    /* background-color: aquamarine; */
+}
+
+/* 每日一首模块 */
+.bestDay{
+    width: 750px;
+    height: 400px;
+    /* background-color: #FFFFFF; */
+    /* background-image: url('https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1562059307&di=8c6194e070fe510a854ef6d8cd2fc670&src=http://img.sanhao.com/community_news/10020/20161017112208423.jpg'); */
+    /* background-size: contain; */
+    /* background-image: "https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1562059307&di=8c6194e070fe510a854ef6d8cd2fc670&src=http://img.sanhao.com/community_news/10020/20161017112208423.jpg" */
+}
+
+.best-div-content{
+    width: 750px;
+    height: 400px;
+    margin-top: -400px;
+}
+
+.best-title{
+    margin-top: 40px;
+    margin-left: 20px;
+    font-size: 40px;
+    width: 200px;
+    height: 60px;
+    color: rgb(120, 120, 120);
+}
+.best-num{
+    margin-top: 40px;
+    margin-left: 20px;
+    font-size: 70px;
+    width: 100px;
+    height: 70px;
+    color: rgb(120, 120, 120);
+}
+.best-content{
+    font-size: 40px;
+    height: 60px;
+    margin-top: 90px;
+    margin-left: 20px;
+    color: rgb(120, 120, 120);
+}
+
+.best-year{
+    width: 50px;
+    height: 400px;
+    margin-left: 650px;
+    margin-top: 100px;
+    font-size: 30px;
+}
+
+.best-date{
+    width: 50px;
+    height: 400px;
+    margin-left: 700px;
+    margin-top: -420px;
+    font-size: 30px;
+}
+
+/* 首页搜索模块 */
+.home-search{
+    width: 710px;
+    height: 120px;
+    /* background-color: bisque; */
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    border-radius: 10px;
+    flex-direction: row;
+}
+.home-search-image{
+    width: 48px;
+    height: 48px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+.home-search-text{
+    width: 500px;
+    height: 48px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    font-size: 37px;
+    color: rgb(200, 200, 200);
+}
+
+/* 首页列表模块 */
+.list-content{
+    width: 750px;
+    height: 200px;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(200, 200, 200);
+}
+
+.list-content-title{
+    margin-left: 20px;
+    margin-top: 40px;
+    font-size: 35px;
+}
+
+.list-content-yautour{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 35px;
+    color: rgb(120, 120, 120);
+}

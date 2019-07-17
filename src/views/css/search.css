@@ -1,0 +1,163 @@
+.isTop{
+    width: 750px;
+    height: 45px;
+    background-color: #5fc1e3;
+}
+.search-middle-input{
+    width: 400px;
+    height: 60px;
+    placeholder-color:#FFFFFF;
+    color: #FFFFFF;
+}
+
+.search-right{
+    flex-direction: row;
+}
+
+.search-right-seabtn{
+    width: 48px;
+    height: 48px;
+    margin-right: 80px;
+}
+
+.search-right-clear{
+    width: 48px;
+    height: 48px;
+    margin-right: 40px;
+}
+
+.scroller{
+   width: 750px;
+   height: 1194px; 
+}
+
+/* 推荐模块 */
+.tips{
+    width: 750px;
+    height: 400px;
+}
+.tips-title{
+    color: rgb(95, 192, 227);
+    font-size: 35px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.tips-content{
+    width: 750px;
+    margin-top: 20px;
+    /* background-color: aquamarine; */
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.tips-content-text{
+    background-color:rgb(43, 183, 225);
+    color: #FFFFFF;
+    font-size: 35px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 60px;
+    height: 80px;
+}
+
+/* 搜索结果: 诗人模块 */
+.res-author{
+    width: 750px;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(200,200,200);
+}
+.res-author-title{
+    width: 750px;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(200,200,200);
+}
+.res-author-title-text{
+    font-size: 45px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    color: rgb(100,100,100);
+}
+
+.res-author-content{
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(200,200,200);
+}
+.res-author-content-title{
+    margin: 20px;
+    font-size: 35px;
+}
+.res-author-content-text{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-bottom: 20px;
+    lines:1;
+    font-size: 35px;
+    color: rgb(100,100,100);
+}
+
+/* 搜索结果: 诗词模块 */
+.res-poem{
+    width: 750px;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(200,200,200);
+    margin-top: 30px;
+}
+.res-poem-title{
+    width: 750px;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(200,200,200);
+}
+.res-poem-title-text{
+    font-size: 45px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    color: rgb(100,100,100);
+}
+.res-poem-content{
+    width: 750px;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(200,200,200);
+}
+.res-poem-content-bottom{
+    width: 750px;
+}
+.res-poem-content-title{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-size: 35px;
+}
+.res-poem-content-year{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    lines:1;
+    font-size: 35px;
+    color: rgb(100,100,100);
+}
+.res-poem-content-text{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    lines:1;
+    font-size: 35px;
+    color: rgb(100,100,100);
+}
+.res-poem-more{
+    width: 750px;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(200,200,200);
+    flex-direction: row;
+}
+.res-poem-more-icon{
+    margin-top: 20px;
+    width: 48px;
+    height: 48px;
+    margin-left: 20px;
+}
+.res-poem-more-title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}

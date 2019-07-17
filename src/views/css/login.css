@@ -1,0 +1,85 @@
+.wapper{
+    width: 750px;
+}
+.isTop{
+    width: 750px;
+    height: 45px;
+    background-color: #5fc1e3;
+}
+
+/* 导航栏模块 */
+.nav-middle-text{
+    font-size: 45px;
+    color: #FFFFFF;
+}
+
+/* 账户 */
+.account{
+    width: 750px;
+    flex-direction: row;
+    justify-content: center;
+}
+.account-title{
+    font-size: 40px;
+    height: 80px;
+    margin-top: 70px;
+    padding-top: 10px;
+    /* margin-left: 40px; */
+}
+
+.account-input{
+    border-width: 1px;
+    border-color:rgb(200, 200, 200);
+    width: 500px;
+    height: 80px;
+    margin-top: 70px;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+/* 密码 */
+.password{
+    width: 750px;
+    flex-direction: row;
+    justify-content: center;
+}
+.password-title{
+    font-size: 40px;
+    height: 80px;
+    margin-top: 70px;
+    padding-top: 10px;
+    /* margin-left: 40px; */
+}
+
+.password-input{
+    border-width: 1px;
+    border-color:rgb(200, 200, 200);
+    width: 500px;
+    height: 80px;
+    margin-top: 70px;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.login-btn{
+    width: 650px;
+    height: 90px;
+    background-color: rgb(110, 213, 245);
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 80px;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 40px;
+    padding-top: 15px;
+}
+
+.qq-login-btn{
+    width: 750px;
+    text-align: right;
+    margin-top: 30px;
+    padding-right: 50px;
+    color: rgb(200, 200, 200);
+
+}

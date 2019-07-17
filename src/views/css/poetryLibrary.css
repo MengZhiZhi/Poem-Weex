@@ -1,0 +1,52 @@
+.wapper{
+    width: 750px;
+}
+.isTop{
+    width: 750px;
+    height: 45px;
+    background-color: #5fc1e3;
+}
+
+/* 导航栏模块 */
+.nav{
+    height: 100px;
+}
+
+.nav-middle-text{
+    font-size: 45px;
+    color: #FFFFFF;
+}
+
+.nav-right{
+    font-size: 80px;
+    color: #FFFFFF;
+}
+
+/* 内容样式 */
+
+.content-list {
+    width: 750px;
+    background-color: #f2f3f4;
+  }
+
+  .content-list-cell {
+    background-color: #ffffff;
+  }
+
+  .content-list-cell-div{
+    width:750px;
+    border-bottom-width:1px;
+    border-color: rgb(200, 200, 200);
+    /* align-items: center; */
+    /* justify-content: center; */
+  }
+  .content-list-cell-div-title{
+    margin: 20px;
+    font-size: 35px;
+  }
+  .content-list-cell-div-text{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    color: rgb(200, 200, 200);
+  }

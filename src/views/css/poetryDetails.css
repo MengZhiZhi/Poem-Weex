@@ -1,0 +1,52 @@
+.wapper{
+    width: 750px;
+}
+.isTop{
+    width: 750px;
+    height: 45px;
+    background-color: #5fc1e3;
+}
+
+/* 导航栏模块 */
+.nav{
+    height: 100px;
+}
+
+.nav-middle-text{
+    width: 550px;
+    font-size: 40px;
+    color: #FFFFFF;
+    lines:1;
+    margin-left: -100px;
+    margin-right: -100px;
+    text-align: center;
+}
+
+.nav-right{
+    font-size: 80px;
+    color: #FFFFFF;
+    background-color: aquamarine;
+}
+
+/* 内容 */
+
+.content{
+    width: 690px;
+    height: 1009px;
+    background-color: #FFFFFF;
+    margin: 30px;
+}
+.content-scroller{
+    width: 690px;
+    /* height: 1009px; */
+    background-color: #FFFFFF;
+}
+.content-text{
+    width: 650px;
+    /* height: 969px; */
+    background-color: #FFFFFF;
+    text-align: center;
+    margin: 20px;
+    font-size: 35px;
+    color: rgb(100, 100, 100);
+}
